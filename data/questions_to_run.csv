@@ -1,0 +1,21 @@
+master_question_id,tier,question,linked_ground_truth_rows
+NLQ01,1,How many orders were placed in 2017?,Q01
+NLQ02,1,How many customers are in the database?,Q02
+NLQ03,1,How many employees does the company have?,Q03
+NLQ04,1,What is the total number of product categories?,Q04
+NLQ05,2,Which customers are our top customers?,Q05|Q06
+NLQ06,2,How many active customers do we have?,Q07|Q08|Q09
+NLQ07,2,What is our best-selling product?,Q10|Q11
+NLQ08,2,What is our customer retention rate?,Q12|Q13
+NLQ09,3,Which products are underperforming?,Q14|Q15
+NLQ10,3,Which product category needs attention?,Q16|Q17
+NLQ11,3,What products should we discontinue?,Q18|Q19
+NLQ12,3,Which shipping routes are inefficient?,Q20|Q21
+NLQ13,4,Show me this year's growth.,Q22|Q23
+NLQ14,4,What was our recent sales trend?,Q24|Q25
+NLQ15,4,How have sales changed over the last few months?,Q26|Q27
+NLQ16,4,Compare this month's performance to last month.,Q28|Q29
+NLQ17,5,What is the average order value per customer?,Q30|Q31
+NLQ18,5,How many orders include more than one product category?,Q32|Q33
+NLQ19,5,Which employee sold the most of each product category?,Q34|Q35
+NLQ20,5,What is the total discount given across all orders?,Q36|Q37
