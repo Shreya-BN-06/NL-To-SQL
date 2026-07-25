@@ -70,7 +70,7 @@ pip install streamlit pandas
 streamlit run streamlit_app.py
 ```
 
-Live dashboard: [add your Streamlit Cloud URL here]
+Live dashboard:https://nl-to-sql-yvxzvbc7dcdrpthpusvjhs.streamlit.app/ 
 
 ## Key files
 
