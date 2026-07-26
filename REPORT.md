@@ -1,6 +1,6 @@
 # Where Natural Language Analytics Breaks: A Failure Taxonomy and Semantic-Layer Fix for NL-to-SQL Systems
 
-Author: [Your Name]
+Author: Shreya B N
 Dataset: Northwind (SQLite)
 Tools: Python, SQLite, Google Gemini API, Streamlit
 
